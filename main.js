@@ -1,10 +1,8 @@
-/**
- * 2.1 - Console vs. Document
- * ICS3 - Mr. Brash 🐿️
- * 
- * What you see here is a block comment. More on that later. READ THE INSTRUCTIONS
- **/ 
+console.log("Apple Inc.\n One Apple Park Way Cupertino,\n CA 95014 +1 408-996-1010")
 
 
-// Feel free to delete this line when starting the task
+console.log("Microsoft Corporation One Microsoft Way Redmond, WA 98052 +1 425-882-8080")
+
 console.log("Hello world!")
+
+console.log(" x  o  x\n o  x  o\n x  o  x")
